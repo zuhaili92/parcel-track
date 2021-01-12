@@ -31,7 +31,7 @@ Tested in PHP 7.1 Only
 
 #### Step 1: Install from composer
 ```
-composer require afiqiqmal/parcel-track
+composer require zuhaili92/parcel-track
 ```
 Alternatively, you can specify as a dependency in your project's existing composer.json file
 ```

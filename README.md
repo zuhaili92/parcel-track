@@ -37,7 +37,7 @@ Alternatively, you can specify as a dependency in your project's existing compos
 ```
 {
    "require": {
-      "afiqiqmal/parcel-tracker": "^1.0"
+      "zuhaili92/parcel-tracker": "^1.0"
    }
 }
 ```

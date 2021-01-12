@@ -23,8 +23,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Afiqiqmal\\ParcelTrack\\": "src/",
-            "Afiqiqmal\\Library\\": "Library/"
+            "Zuhaili92\\ParcelTrack\\": "src/",
+            "Zuhaili92\\Library\\": "Library/"
         },
         "files": ["helper/helpers.php"]
     }

@@ -3,7 +3,7 @@ namespace Tests;
 
 require_once __DIR__ .'/../vendor/autoload.php';
 
-use Afiqiqmal\ParcelTrack\Tracker\SkyNet;
+use Zuhaili92\ParcelTrack\Tracker\SkyNet;
 use PHPUnit\Framework\TestCase;
 
 /**

@@ -1,8 +1,8 @@
 <?php
 
-use Afiqiqmal\Library\ApiRequest;
-use Afiqiqmal\Library\ParcelUtils;
-use Afiqiqmal\ParcelTrack\ParcelTrack;
+use Zuhaili92\Library\ApiRequest;
+use Zuhaili92\Library\ParcelUtils;
+use Zuhaili92\ParcelTrack\ParcelTrack;
 
 define('PARCEL_METHOD_POST', 'POST');
 define('PARCEL_METHOD_GET', 'GET');

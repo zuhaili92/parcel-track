@@ -4,9 +4,9 @@
  *
  * @author hafiz
  */
-namespace Afiqiqmal\ParcelTrack;
+namespace Zuhaili92\ParcelTrack;
 
-use Afiqiqmal\ParcelTrack\Contract\BaseParcelTrack;
+use Zuhaili92\ParcelTrack\Contract\BaseParcelTrack;
 
 class ParcelTrack extends BaseParcelTrack
 {

@@ -1,9 +1,9 @@
 # Parcel Tracker
 
-[![Build Status](https://travis-ci.org/afiqiqmal/parcel-track.svg?branch=master)](https://travis-ci.org/afiqiqmal/parcel-track)
-[![Coverage](https://img.shields.io/codecov/c/github/afiqiqmal/parcel-track.svg)](https://codecov.io/gh/afiqiqmal/parcel-track)
-[![Packagist](https://img.shields.io/packagist/dt/afiqiqmal/parcel-track.svg)](https://packagist.org/packages/afiqiqmal/parcel-track)
-[![Packagist](https://img.shields.io/packagist/v/afiqiqmal/parcel-track.svg)](https://packagist.org/packages/afiqiqmal/parcel-track)
+[![Build Status](https://travis-ci.org/Zuhaili92/parcel-track.svg?branch=master)](https://travis-ci.org/Zuhaili92/parcel-track)
+[![Coverage](https://img.shields.io/codecov/c/github/Zuhaili92/parcel-track.svg)](https://codecov.io/gh/Zuhaili92/parcel-track)
+[![Packagist](https://img.shields.io/packagist/dt/Zuhaili92/parcel-track.svg)](https://packagist.org/packages/Zuhaili92/parcel-track)
+[![Packagist](https://img.shields.io/packagist/v/Zuhaili92/parcel-track.svg)](https://packagist.org/packages/Zuhaili92/parcel-track)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/mhi9388?locale.x=en_US)
 
 Simple Parcel Tracker for Local Parcel Courier. 
@@ -31,13 +31,13 @@ Tested in PHP 7.1 Only
 
 #### Step 1: Install from composer
 ```
-composer require zuhaili92/parcel-track
+composer require Zuhaili92/parcel-track
 ```
 Alternatively, you can specify as a dependency in your project's existing composer.json file
 ```
 {
    "require": {
-      "zuhaili92/parcel-tracker": "^1.0"
+      "Zuhaili92/parcel-tracker": "^1.0"
    }
 }
 ```
@@ -174,7 +174,7 @@ For checking which carrier response like below:
     "footer": {
         "developer": {
             "name": "Hafiq",
-            "homepage": "https://github.com/afiqiqmal"
+            "homepage": "https://github.com/Zuhaili92"
         }
     }
 }
@@ -234,7 +234,7 @@ You should getting data tracker similarly like below:
         "source": "GD Express Sdn Bhd",
         "developer": {
             "name": "Hafiq",
-            "homepage": "https://github.com/afiqiqmal"
+            "homepage": "https://github.com/Zuhaili92"
         }
     }
 }

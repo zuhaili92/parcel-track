@@ -3,7 +3,7 @@ namespace Tests;
 
 require_once __DIR__ .'/../vendor/autoload.php';
 
-use Afiqiqmal\ParcelTrack\Tracker\DHLCommerce;
+use Zuhaili92\ParcelTrack\Tracker\DHLCommerce;
 use PHPUnit\Framework\TestCase;
 
 /**

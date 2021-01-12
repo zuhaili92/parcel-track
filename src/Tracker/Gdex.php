@@ -6,7 +6,7 @@
  * Time: 11:02 PM
  */
 
-namespace Afiqiqmal\ParcelTrack\Tracker;
+namespace Zuhaili92\ParcelTrack\Tracker;
 
 use Carbon\Carbon;
 use Symfony\Component\DomCrawler\Crawler;

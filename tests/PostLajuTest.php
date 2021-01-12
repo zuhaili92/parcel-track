@@ -3,7 +3,7 @@ namespace Tests;
 
 require_once __DIR__ .'/../vendor/autoload.php';
 
-use Afiqiqmal\ParcelTrack\Tracker\PosLaju;
+use Zuhaili92\ParcelTrack\Tracker\PosLaju;
 use PHPUnit\Framework\TestCase;
 
 /**

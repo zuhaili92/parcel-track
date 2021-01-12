@@ -3,7 +3,7 @@ namespace Tests;
 
 require_once __DIR__ .'/../vendor/autoload.php';
 
-use Afiqiqmal\ParcelTrack\Tracker\FedEx;
+use Zuhaili92\ParcelTrack\Tracker\FedEx;
 use PHPUnit\Framework\TestCase;
 
 /**

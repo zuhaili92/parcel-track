@@ -1,5 +1,5 @@
 <?php
-namespace Afiqiqmal\Library;
+namespace Zuhaili92\Library;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;

@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: hafiq
+ * User: zuhaili
  * Date: 02/05/2018
  * Time: 9:06 AM
  */
 
-namespace Afiqiqmal\Library;
+namespace Zuhaili92\Library;
 
 
 use Carbon\Carbon;

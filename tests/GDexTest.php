@@ -3,7 +3,7 @@ namespace Tests;
 
 require_once __DIR__ .'/../vendor/autoload.php';
 
-use Afiqiqmal\ParcelTrack\Tracker\Gdex;
+use Zuhaili92\ParcelTrack\Tracker\Gdex;
 use PHPUnit\Framework\TestCase;
 
 /**

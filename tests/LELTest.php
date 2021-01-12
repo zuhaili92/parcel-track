@@ -3,7 +3,7 @@ namespace Tests;
 
 require_once __DIR__ .'/../vendor/autoload.php';
 
-use Afiqiqmal\ParcelTrack\Tracker\LELExpress;
+use Zuhaili92\ParcelTrack\Tracker\LELExpress;
 use PHPUnit\Framework\TestCase;
 
 /**
